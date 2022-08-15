@@ -1,3 +1,7 @@
+div {
+    border: 1px solid green;
+}
+
 img {
     border-radius: 30%;
     width: 200px;
@@ -19,7 +23,7 @@ h2 {
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+    
 }
 
 ul {
@@ -33,9 +37,21 @@ a {
 .Habilidade1 {
     font-size: 40px;
 }
+
 .Habilidade2 {
     font-size: 30px;
 }
+
 .Habilidade3 {
-    font-size: 20px;
+    font-size: 20px;}
+
+
+#foto {
+    float: left;
+    height: 300px;
+
+}
+
+.image-conteiner {
+    height: 300px;
 }
