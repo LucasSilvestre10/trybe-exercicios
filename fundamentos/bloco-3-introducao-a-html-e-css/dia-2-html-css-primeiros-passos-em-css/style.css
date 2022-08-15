@@ -2,17 +2,40 @@ img {
     border-radius: 30%;
     width: 200px;
 }
-body{
+
+body {
     background-color: #282A36;
     color: white;
 }
+
 h1 {
     color: #E5699B;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-h2{
+
+h2 {
     color: #E5699B;
 }
-p {    
+
+p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+ul {
+    color: #E2F27D;
+}
+
+a {
+    color: #4AEF74;
+}
+
+.Habilidade1 {
+    font-size: 40px;
+}
+.Habilidade2 {
+    font-size: 30px;
+}
+.Habilidade3 {
+    font-size: 20px;
 }
