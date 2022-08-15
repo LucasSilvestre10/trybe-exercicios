@@ -3,7 +3,7 @@ div {
 }
 
 img {
-    border-radius: 30%;
+    border-radius: 5%;
     width: 200px;
 }
 
@@ -23,7 +23,7 @@ h2 {
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+
 }
 
 ul {
@@ -43,8 +43,8 @@ a {
 }
 
 .Habilidade3 {
-    font-size: 20px;}
-
+    font-size: 20px;
+}
 
 #foto {
     float: left;
@@ -54,4 +54,8 @@ a {
 
 .image-conteiner {
     height: 300px;
+}
+
+#meu-nome {
+    text-align: center;
 }
