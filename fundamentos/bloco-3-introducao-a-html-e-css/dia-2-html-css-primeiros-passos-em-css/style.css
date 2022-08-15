@@ -8,6 +8,7 @@ img {
 }
 
 body {
+    padding: 2%;
     background-color: #282A36;
     color: white;
 }
@@ -23,7 +24,6 @@ h2 {
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 ul {
@@ -53,9 +53,14 @@ a {
     background-color: #E5699B;
 
 }
+#sobre {      
+    padding: 10px;
+    margin-top: 125px;
+}
 
 .image-conteiner {
     height: 300px;
+    position: relative;
 }
 
 #meu-nome {
