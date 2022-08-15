@@ -3,7 +3,7 @@ div {
 }
 
 img {
-    border-radius: 5%;
+    border-radius: 15%;
     width: 200px;
 }
 
@@ -48,7 +48,9 @@ a {
 
 #foto {
     float: left;
-    height: 300px;
+    height: 280px;
+    padding: 10px;
+    background-color: #E5699B;
 
 }
 
