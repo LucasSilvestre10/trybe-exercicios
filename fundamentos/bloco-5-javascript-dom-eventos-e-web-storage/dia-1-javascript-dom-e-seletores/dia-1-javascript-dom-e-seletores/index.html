@@ -53,13 +53,18 @@
         array[index].innerText = "texto rapido";
       }
       //2. Crie e execute uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
-      let color = document.getElementsByClassName("main-content");
-      for (let i = 0; i < color.length; i++) {
-        color[i].style.backgroundColor = "rgb(76,164,109)";
+      let main = document.getElementsByClassName("main-content");;
+      for (let m = 0; m < main.length; m++) {
+        main[m].style.backgroundColor = "rgb(76,164,109)"
       }
 
       //3. Crie e execute uma função que mude a cor do quadrado vermelho para branco.
+      let center = document.getElementsByClassName("center-content");
+      for (let i = 0; i < center.length; i++) {
+        center[i].style.backgroundColor = "white";
+      }
       //4. Crie e execute uma função que corrija o texto da tag <h1>.
+        
       //5. Crie e execute uma função que modifique todo o texto da tag <p> para maiúsculo.
       //6. Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
     </script>
